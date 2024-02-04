@@ -1,0 +1,6 @@
+@GMedia_AZ204.Server_HostAddress = http://localhost:5270
+
+GET {{GMedia_AZ204.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
